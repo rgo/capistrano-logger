@@ -1,0 +1,18 @@
+= Capistrano-logger
+A Capistrano's plugin to log every task executed in your ecosystem
+
+http://dl.dropbox.com/u/13926307/mortadelo_aizkolari.jpg
+
+== What is Capistrano-logger?
+Capistrano-logger is an attempt to satisfy the masses, well, or close the ticket #98 at lighthouse :)
+
+The main idea is, as said in the description, to log every task executed and upload this log file in every server.
+
+This functionality is suspiciously similar to the offered by the eycap gem. Of course! The idea come from there :)
+
+== Getting started
+TODO
+
+
+== Acknowledgements
+Thanks to Engine Yard by eycap gem.
